@@ -1,0 +1,6 @@
+Componentes de una red
+1.- Medio ----- imalámbrica o alámbrica
+2.-Protocolo---- reglas para la comunicacióm
+3.-Dispositivos---- computadoras, hub´s, routers y otros tipos de hardware
+4.-Mensaje---- Información o datos a compartir
+Impacto de las redes en la comunidad y en la sociedad, un ensayo
